@@ -5,7 +5,7 @@
  */
 package beans;
 
-import java.util.logging.Logger;
+//import java.util.logging.Logger;
 import javax.ejb.EJB;
 import javax.enterprise.context.RequestScoped;
 import javax.inject.Inject;
@@ -63,8 +63,9 @@ public class Bb {
     @EJB
     EmployeeDb db;
     @Inject
-    transient Logger log;
+    //transient Logger log;
     public String next(){
+        System.out.println("bb.next()");
         create();
         return null;
     }
@@ -75,7 +76,8 @@ public class Bb {
             db.create(emp);
             clear();
         } catch(Exception e){
-            log.server("can not regist new object/"+number);
+            System.out.println("can not regist new object/"+number);
+            // log.server("can not regist new object/"+number);
         }
     }
     

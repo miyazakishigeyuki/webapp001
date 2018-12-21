@@ -3,9 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/web/index.xhtml</file>
-            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/web/WEB-INF/glassfish-web.xml</file>
-            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/src/java/beans/MeiboBean.java</file>
+            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/webapp001/WebApplication1/src/java/beans/Bb.java</file>
+            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/webapp001/WebApplication1/web/output.xhtml</file>
+            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/webapp001/WebApplication1/src/conf/persistence.xml</file>
+            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/webapp001/WebApplication1/nbproject/build-impl.xml</file>
+            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/webapp001/WebApplication1/src/java/beans/MeiboBean.java</file>
+            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/webapp001/WebApplication1/web/WEB-INF/glassfish-web.xml</file>
+            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/webapp001/WebApplication1/web/index.xhtml</file>
+            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/webapp001/WebApplication1/src/java/beans/Employee.java</file>
+            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/webapp001/WebApplication1/src/java/beans/EmployeeDb.java</file>
+            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/webapp001/WebApplication1/web/WEB-INF/web.xml</file>
+            <file>file:/E:/User/miyazaki/Document/NetBeansProjects/WebApplication1/webapp001/WebApplication1/src/java/beans/LoggerProducer.java</file>
         </group>
     </open-files>
 </project-private>
