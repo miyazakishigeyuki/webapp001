@@ -22,7 +22,7 @@ public class MeiboBean {
         System.out.println("number="+this.number+"/ name="+this.name);
     }
     
-    public void next(){
+    public String next(){
         this.toConsole();
         return "output.xhtml";
     }
