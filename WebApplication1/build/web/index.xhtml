@@ -12,6 +12,19 @@
             氏名:<h:inputText value="#{meiboBean.name}" /><br />
             <h:commandButton value="送信" action="#{meiboBean.next()}"/>
         </h:form>
+        
+        <h1>データベースの登録</h1>
+        <h:form>
+            <h:panelGrid columns="3">
+                番号<h:inputText id="number" value="#{bb.number}" />
+                <h:message for="number" styleClass="error" />
+                氏名<h:inputText id="namer" value="#{bb.name}" />
+                <h:message for="name" styleClass="error" />
+                メール<h:inputText id="mail" value="#{bb.mail}" />
+                <h:message for="mail" styleClass="error" />
+            </h:panelGrid>
+            <h:commandButton value="新規登録" action="#{bb.next()}" />
+        </h:form>
     </h:body>
 </html>
 
